@@ -6,5 +6,4 @@
 <p>CSS</p>
 <p>HTML</p>
 <p> E no futuro proximo JavaScript</p>
-[![my stats](https://github-readme-stats.vercel.app/api?username=Felipealc-dev)](https://github.com/anuraghazra/github-readme-stats)]
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipealc-dev)](https://github.com/anuraghazra/github-readme-stats)
