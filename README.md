@@ -5,5 +5,7 @@
 <br>
 <p>CSS</p>
 <p>HTML</p>
-<p> E no futuro proximo JavaScript</p>
+<p>JavaScript</p>
+<p>React</p>
+<p>Node</p>
 
