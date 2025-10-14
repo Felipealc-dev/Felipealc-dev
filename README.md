@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1> Meu nome é Felipe Alcântara, atualmente estou aprendendo e criando projetos em: </h1>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<h2 align="left">Ola, meu nome é Felipe Alcântara, atualmente estou aprendendo e criando projetos</h2>
 
 ###
 
